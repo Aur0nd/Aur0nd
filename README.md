@@ -2,4 +2,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aur0nd&hide=contribs,prs)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aur0nd&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aur0nd&count_private=true&hide=contribs,prs)
